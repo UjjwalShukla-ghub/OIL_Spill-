@@ -1,5 +1,5 @@
-# OIL_Spill-
-This is a imbalanced classification task on oil-spill dataset.
+# OIL_Spill
+This is an imbalanced classification task on oil-spill dataset.
 
 # Dataset
 As of details provided on the kaggle, this dataset was introduced in the 1998 paper by Miroslav Kubat, et al. titled Machine Learning for the Detection of Oil Spills in Satellite Radar Images. The dataset is often credited to Robert Holte, a co-author of the paper. The dataset was developed by starting with satellite images of the ocean, some of which contain an oil spill and some that do not. Images were split into sections and processed using computer vision algorithms to provide a vector of features to describe the contents of the image section or patch.
